@@ -116,7 +116,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
                 <div className="flex items-center gap-3.5 min-w-0">
                   <div className="w-12 h-12 rounded-2xl overflow-hidden bg-white border border-[#17243A]/10 shadow-xs shrink-0">
                     <img
-                      src="/assets/aistudio/image_93510b04.png"
+                      src="./assets/aistudio/image_93510b04.png"
                       alt="Shreyansh Gupta"
                       className="w-full h-full object-cover object-top"
                     />
@@ -150,7 +150,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
               <div className="flex items-center gap-3.5 pb-3 border-b border-[#17243A]/10">
                 <div className="w-12 h-12 rounded-2xl overflow-hidden bg-white border border-[#17243A]/10 shadow-xs shrink-0">
                   <img
-                    src="/assets/aistudio/image_1cf77474.png"
+                    src="./assets/aistudio/image_1cf77474.png"
                     alt="Shorya Panchal"
                     className="w-full h-full object-cover object-top"
                   />
@@ -172,7 +172,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({
               <div className="flex items-center gap-3.5">
                 <div className="w-12 h-12 rounded-2xl overflow-hidden bg-white border border-[#17243A]/10 shadow-xs shrink-0">
                   <img
-                    src="/assets/aistudio/image_d4766d2a.png"
+                    src="./assets/aistudio/image_d4766d2a.png"
                     alt="Anubhav Gupta"
                     className="w-full h-full object-cover object-top"
                   />

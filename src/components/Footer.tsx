@@ -62,7 +62,7 @@ export const Footer: React.FC<FooterProps> = ({
             >
               <div className="w-10 h-10 rounded-xl overflow-hidden bg-white/10 p-0.5 border border-white/15 flex items-center justify-center shadow-xs">
                 <img
-                  src="/assets/aistudio/Aawaaz_setu_logo_02eff1ad.jpeg"
+                  src="./assets/aistudio/Aawaaz_setu_logo_02eff1ad.jpeg"
                   alt="Aawaaz Setu Emblem"
                   className="w-full h-full object-cover rounded-[9px]"
                 />

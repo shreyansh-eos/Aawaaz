@@ -86,7 +86,7 @@ export const Navbar: React.FC<NavbarProps> = ({
           >
             <div className="w-10 h-10 rounded-xl overflow-hidden bg-white shadow-xs border border-[#17243A]/10 flex items-center justify-center shrink-0 transition-transform duration-300 group-hover:scale-105">
               <img
-                src="/assets/aistudio/Aawaaz_setu_logo_02eff1ad.jpeg"
+                src="./assets/aistudio/Aawaaz_setu_logo_02eff1ad.jpeg"
                 alt="Aawaaz Setu Logo"
                 className="w-full h-full object-contain p-0.5"
               />

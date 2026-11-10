@@ -29,12 +29,12 @@ export const AboutSection: React.FC = () => {
 
   const shreyanshPhotos = {
     formal: {
-      src: '/assets/aistudio/image_93510b04.png',
+      src: './assets/aistudio/image_93510b04.png',
       title: 'Formal Portrait',
       alt: 'Shreyansh Gupta — Founder of Aawaaz Setu in formal navy suit at the National Crafts & Heritage Atrium',
     },
     campus: {
-      src: '/assets/aistudio/image_635a89a6.png',
+      src: './assets/aistudio/image_635a89a6.png',
       title: 'Student Life',
       alt: 'Shreyansh Gupta — Student & Founder of Aawaaz Setu',
     },
@@ -105,7 +105,7 @@ export const AboutSection: React.FC = () => {
           >
             <div className="rounded-2xl overflow-hidden shadow-sm border border-[#17243A]/10 bg-[#F8F7F3] group">
               <img
-                src="/src/assets/images/about_community_support_1794063715770.jpg"
+                src="./assets/images/about_community_support_1794063715770.jpg"
                 alt="Compassionate listening and gentle voice light — Aawaaz Setu"
                 className="w-full h-auto object-cover max-h-[440px] transition-transform duration-500 group-hover:scale-[1.02]"
                 loading="lazy"
@@ -169,7 +169,7 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="w-5 h-5 rounded-full overflow-hidden bg-white/20 shrink-0">
                     <img
-                      src="/assets/aistudio/image_93510b04.png"
+                      src="./assets/aistudio/image_93510b04.png"
                       alt="Shreyansh Gupta"
                       className="w-full h-full object-cover object-top"
                     />
@@ -188,7 +188,7 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="w-5 h-5 rounded-full overflow-hidden bg-white/20 shrink-0">
                     <img
-                      src="/assets/aistudio/image_1cf77474.png"
+                      src="./assets/aistudio/image_1cf77474.png"
                       alt="Shorya Panchal"
                       className="w-full h-full object-cover object-top"
                     />
@@ -207,7 +207,7 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="w-5 h-5 rounded-full overflow-hidden bg-white/20 shrink-0">
                     <img
-                      src="/assets/aistudio/image_d4766d2a.png"
+                      src="./assets/aistudio/image_d4766d2a.png"
                       alt="Anubhav Gupta"
                       className="w-full h-full object-cover object-top"
                     />
@@ -440,7 +440,7 @@ export const AboutSection: React.FC = () => {
                       {/* Photo Container */}
                       <div className="relative aspect-[3/4] w-full rounded-2xl overflow-hidden bg-[#17243A]/5 border border-[#17243A]/10 group">
                         <img
-                          src="/assets/aistudio/image_1cf77474.png"
+                          src="./assets/aistudio/image_1cf77474.png"
                           alt="Shorya Panchal — Co-Founder of Aawaaz Setu in formal black suit"
                           className="w-full h-full object-cover object-top transition-all duration-500 group-hover:scale-[1.02]"
                           loading="eager"
@@ -584,7 +584,7 @@ export const AboutSection: React.FC = () => {
                       {/* Photo Container */}
                       <div className="relative aspect-[3/4] w-full rounded-2xl overflow-hidden bg-[#17243A]/5 border border-[#17243A]/10 group">
                         <img
-                          src="/assets/aistudio/image_d4766d2a.png"
+                          src="./assets/aistudio/image_d4766d2a.png"
                           alt="Anubhav Gupta — Human Resources Manager & Volunteer Lead at Aawaaz Setu"
                           className="w-full h-full object-cover object-top transition-all duration-500 group-hover:scale-[1.02]"
                           loading="eager"
@@ -730,7 +730,7 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="w-13 h-13 rounded-xl overflow-hidden bg-[#17243A]/5 border border-[#17243A]/10 shrink-0">
                     <img
-                      src="/assets/aistudio/image_93510b04.png"
+                      src="./assets/aistudio/image_93510b04.png"
                       alt="Shreyansh Gupta"
                       className="w-full h-full object-cover object-top"
                     />
@@ -760,7 +760,7 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="w-13 h-13 rounded-xl overflow-hidden bg-[#17243A]/5 border border-[#17243A]/10 shrink-0">
                     <img
-                      src="/assets/aistudio/image_1cf77474.png"
+                      src="./assets/aistudio/image_1cf77474.png"
                       alt="Shorya Panchal"
                       className="w-full h-full object-cover object-top"
                     />
@@ -790,7 +790,7 @@ export const AboutSection: React.FC = () => {
                 >
                   <div className="w-13 h-13 rounded-xl overflow-hidden bg-[#17243A]/5 border border-[#17243A]/10 shrink-0">
                     <img
-                      src="/assets/aistudio/image_d4766d2a.png"
+                      src="./assets/aistudio/image_d4766d2a.png"
                       alt="Anubhav Gupta"
                       className="w-full h-full object-cover object-top"
                     />

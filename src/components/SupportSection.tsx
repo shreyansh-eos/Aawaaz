@@ -240,7 +240,7 @@ export const SupportSection: React.FC<SupportSectionProps> = ({ isLoading: propL
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center p-7 sm:p-8 bg-[#EEF3F8]/60 rounded-3xl border border-[#17243A]/10 shadow-2xs">
           <div className="lg:col-span-4 rounded-2xl overflow-hidden shadow-xs border border-[#17243A]/10 max-h-48">
             <img
-              src="/src/assets/images/support_sanctuary_peace_1794063715762.jpg"
+              src="./assets/images/support_sanctuary_peace_1794063715762.jpg"
               alt="Peaceful sanctuary garden — Aawaaz Setu safe haven"
               className="w-full h-full object-cover"
               loading="lazy"

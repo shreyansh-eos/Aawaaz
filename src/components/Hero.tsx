@@ -148,7 +148,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreMission, onOpenGame }) => {
           >
             <div className="relative rounded-2xl overflow-hidden shadow-md border border-[#17243A]/10 bg-white group">
               <img
-                src="/src/assets/images/hero_peaceful_solidarity_1794063714650.jpg"
+                src="./assets/images/hero_peaceful_solidarity_1794063714650.jpg"
                 alt="Aawaaz Setu — Solidarity and breaking silence together in warm dawn light"
                 className="w-full h-auto object-cover max-h-[460px] transition-transform duration-500 group-hover:scale-[1.02]"
                 loading="eager"

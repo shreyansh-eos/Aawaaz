@@ -6,7 +6,7 @@ import { VitePWA } from 'vite-plugin-pwa';
 
 export default defineConfig(() => {
   return {
-    base: '/Aawaaz-Setu/',
+    base: './',
     plugins: [
       react(),
       tailwindcss(),
@@ -20,30 +20,30 @@ export default defineConfig(() => {
           'assets/**/*',
         ],
         manifest: {
-          id: '/',
+          id: './',
           name: 'Aawaaz Setu — Every Voice Deserves to Be Heard',
           short_name: 'Aawaaz Setu',
           description: 'An independent student-led awareness initiative promoting survivor support, mental health, and Aawaaz Run peaceful escape mini-game.',
           theme_color: '#17243A',
           background_color: '#F8F7F3',
           display: 'standalone',
-          start_url: '/',
-          scope: '/',
+          start_url: './',
+          scope: './',
           icons: [
             {
-              src: '/pwa-192x192.png',
+              src: 'pwa-192x192.png',
               sizes: '192x192',
               type: 'image/png',
               purpose: 'any',
             },
             {
-              src: '/pwa-512x512.png',
+              src: 'pwa-512x512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'any',
             },
             {
-              src: '/pwa-maskable-512x512.png',
+              src: 'pwa-maskable-512x512.png',
               sizes: '512x512',
               type: 'image/png',
               purpose: 'maskable',
